@@ -4,13 +4,13 @@ This Jupyter Notebook project aims to predict the amount a customer is likely to
 
 ## Dataset
 
-The dataset used in this project is located in the `data` directory. It contains the following columns:
+The dataset used in this project is located in the `csv` file. It contains the following columns:
 
+- `Gender`: Gender of the customer
 - `Age`: Age of the customer
 - `Annual Salary`: Annual salary of the customer
 - `Credit Score`: Credit score of the customer
 - `Debt`: Amount of debt of the customer
-- `Years Employed`: Number of years employed by the customer
 - `Car Purchase Amount`: Amount spent by the customer on a car purchase (target variable)
 
 ## Notebook Files
